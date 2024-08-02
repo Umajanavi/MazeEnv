@@ -15,8 +15,6 @@ To run this project, ensure you have Python installed. Then, follow these steps:
 # 1.Clone the Repository:
 git clone https://github.com/Umajanavi/MazeEnv.git
 
-cd q_learning_ums8550
-
 # 2.Install the necessary dependencies:
 pip install -r requirements.txt
 
