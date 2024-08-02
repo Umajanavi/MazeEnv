@@ -18,7 +18,7 @@ git clone https://github.com/Umajanavi/MazeEnv.git
 # 2.Install the necessary dependencies:
 pip install -r requirements.txt
 
-# 3.Install the gym library (if it is not included in requirements.txt):
+# 3.Install the gym library:
 pip install gym
 
 # Usage
