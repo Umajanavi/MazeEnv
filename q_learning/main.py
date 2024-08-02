@@ -1,5 +1,5 @@
 # Imports:
-from padm_env import MazeEnv
+from maze_env import MazeEnv
 from Q_learning import train_q_learning, visualize_q_table
 
 # User definitions:

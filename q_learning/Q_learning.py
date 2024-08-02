@@ -85,7 +85,7 @@ def visualize_q_table(hell_state_coordinates, primary_goal_coordinates, secondar
                 mask[hell[0], hell[1]] = True  # Mask out hell states
 
             # Plot heatmap with annotations
-            sns.heatmap(heatmap_data, annot=True, fmt=".2f", cmap="plasma", ax=ax, cbar=False, mask=mask, annot_kws={"size": 7})
+            sns.heatmap(heatmap_data, annot=True, fmt=".2f", cmap="plasma", ax=ax, cbar=False, mask=mask, annot_kws={"size": 6})
 
             # Annotate special states on heatmap
             ax.text(primary_goal_coordinates[1] + 0.5, primary_goal_coordinates[0] + 0.5, 'P', color='green', ha='center', va='center', weight='bold', fontsize=14)
