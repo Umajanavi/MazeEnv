@@ -13,7 +13,7 @@ Visual Assets: Various images (e.g., Background.webp, castle.jpeg, Cinderella.pn
 To run this project, ensure you have Python installed. Then, follow these steps:
 
 # 1.Clone the Repository:
-git clone https://github.com/Umajanavi/q_learning_ums8550.git
+git clone https://github.com/Umajanavi/MazeEnv.git
 
 cd q_learning_ums8550
 
